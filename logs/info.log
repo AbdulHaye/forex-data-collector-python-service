@@ -1,0 +1,97 @@
+[2025-08-20 19:41:06,558] INFO in main: Initializing Forex Data Collector
+[2025-08-20 19:41:06,558] INFO in config: Configuration loaded: TIMEZONE=Europe/Zurich, COLLECTION_TIME=16:30
+[2025-08-20 19:41:10,575] INFO in database: Successfully connected to Supabase
+[2025-08-20 19:41:10,576] INFO in main: Application initialized successfully
+[2025-08-20 19:41:10,580] INFO in main: Running initial historical data backfill...
+[2025-08-20 19:41:10,583] INFO in utils: Starting historical data backfill
+[2025-08-20 19:41:11,533] INFO in currency_service: Available currencies: 42
+[2025-08-20 19:41:12,038] INFO in utils: Processing 427 business days
+[2025-08-20 19:41:12,038] INFO in utils: Processing day 1/427: 2024-01-01
+[2025-08-20 19:41:12,550] INFO in utils: Starting data collection for 2024-01-01
+[2025-08-20 19:41:12,551] INFO in currency_service: Downloading fresh ECB data...
+[2025-08-20 19:41:15,018] INFO in currency_service: ECB data downloaded and cached to /app/data_cache\ecb_data_2025-08-20.zip
+[2025-08-20 19:41:16,776] INFO in currency_service: Available currencies: 42
+[2025-08-20 19:41:16,777] INFO in utils: Retrieved 82 exchange rates for 2024-01-01
+[2025-08-20 19:41:57,315] INFO in database: Inserted/updated 82 exchange rates
+[2025-08-20 19:41:57,316] INFO in utils: Successfully stored 82 new exchange rates
+[2025-08-20 19:41:57,418] INFO in utils: Processing day 2/427: 2024-01-02
+[2025-08-20 19:41:57,863] INFO in utils: Starting data collection for 2024-01-02
+[2025-08-20 19:41:57,863] INFO in currency_service: Downloading fresh ECB data...
+[2025-08-20 19:42:00,541] INFO in currency_service: ECB data downloaded and cached to /app/data_cache\ecb_data_2025-08-20.zip
+[2025-08-20 19:42:01,497] INFO in currency_service: Available currencies: 42
+[2025-08-20 19:42:01,499] INFO in utils: Retrieved 82 exchange rates for 2024-01-02
+[2025-08-20 19:42:41,360] INFO in database: Inserted/updated 82 exchange rates
+[2025-08-20 19:42:41,362] INFO in utils: Successfully stored 82 new exchange rates
+[2025-08-20 19:42:41,481] INFO in utils: Processing day 3/427: 2024-01-03
+[2025-08-20 19:42:41,967] INFO in utils: Starting data collection for 2024-01-03
+[2025-08-20 19:42:41,968] INFO in currency_service: Downloading fresh ECB data...
+[2025-08-20 19:42:43,955] INFO in currency_service: ECB data downloaded and cached to /app/data_cache\ecb_data_2025-08-20.zip
+[2025-08-20 19:42:45,148] INFO in currency_service: Available currencies: 42
+[2025-08-20 19:42:45,150] INFO in utils: Retrieved 82 exchange rates for 2024-01-03
+[2025-08-20 19:43:25,536] INFO in database: Inserted/updated 82 exchange rates
+[2025-08-20 19:43:25,536] INFO in utils: Successfully stored 82 new exchange rates
+[2025-08-20 19:43:25,638] INFO in utils: Processing day 4/427: 2024-01-04
+[2025-08-20 19:43:26,136] INFO in utils: Starting data collection for 2024-01-04
+[2025-08-20 19:43:26,137] INFO in currency_service: Downloading fresh ECB data...
+[2025-08-20 19:43:29,072] INFO in currency_service: ECB data downloaded and cached to /app/data_cache\ecb_data_2025-08-20.zip
+[2025-08-20 19:43:31,085] INFO in currency_service: Available currencies: 42
+[2025-08-20 19:43:31,088] INFO in utils: Retrieved 82 exchange rates for 2024-01-04
+[2025-08-20 19:44:10,626] INFO in database: Inserted/updated 82 exchange rates
+[2025-08-20 19:44:10,627] INFO in utils: Successfully stored 82 new exchange rates
+[2025-08-20 19:44:10,739] INFO in utils: Processing day 5/427: 2024-01-05
+[2025-08-20 19:44:11,200] INFO in utils: Starting data collection for 2024-01-05
+[2025-08-20 19:44:11,201] INFO in currency_service: Downloading fresh ECB data...
+[2025-08-20 19:44:14,552] INFO in currency_service: ECB data downloaded and cached to /app/data_cache\ecb_data_2025-08-20.zip
+[2025-08-20 19:44:15,871] INFO in currency_service: Available currencies: 42
+[2025-08-20 19:44:15,872] INFO in utils: Retrieved 82 exchange rates for 2024-01-05
+[2025-08-20 19:44:55,268] INFO in database: Inserted/updated 82 exchange rates
+[2025-08-20 19:44:55,269] INFO in utils: Successfully stored 82 new exchange rates
+[2025-08-20 19:44:55,370] INFO in utils: Processing day 6/427: 2024-01-08
+[2025-08-20 19:44:55,837] INFO in utils: Starting data collection for 2024-01-08
+[2025-08-20 19:44:55,840] INFO in currency_service: Downloading fresh ECB data...
+[2025-08-20 19:44:57,636] INFO in currency_service: ECB data downloaded and cached to /app/data_cache\ecb_data_2025-08-20.zip
+[2025-08-20 19:44:58,831] INFO in currency_service: Available currencies: 42
+[2025-08-20 19:44:58,832] INFO in utils: Retrieved 82 exchange rates for 2024-01-08
+[2025-08-20 19:52:21,531] INFO in main: Initializing Forex Data Collector
+[2025-08-20 19:52:21,532] INFO in config: Configuration loaded: TIMEZONE=Europe/Zurich, COLLECTION_TIME=16:30
+[2025-08-20 19:52:26,680] INFO in database: Successfully connected to Supabase
+[2025-08-20 19:52:26,681] INFO in main: Application initialized successfully
+[2025-08-20 19:52:26,681] INFO in main: Running initial historical data backfill...
+[2025-08-20 19:52:26,682] INFO in utils: Starting historical data backfill
+[2025-08-20 19:52:27,545] INFO in currency_service: Available currencies: 42
+[2025-08-20 19:52:28,099] INFO in utils: Processing 427 business days
+[2025-08-20 19:52:28,099] INFO in utils: Processing day 1/427: 2024-01-01
+[2025-08-20 19:52:28,612] INFO in utils: Starting data collection for 2024-01-01
+[2025-08-20 19:52:28,613] INFO in currency_service: Downloading fresh ECB data...
+[2025-08-20 19:52:30,945] INFO in currency_service: ECB data downloaded and cached to /app/data_cache\ecb_data_2025-08-20.zip
+[2025-08-20 19:52:31,847] INFO in currency_service: Available currencies: 42
+[2025-08-20 19:52:31,849] INFO in utils: Retrieved 82 exchange rates for 2024-01-01
+[2025-08-20 19:53:17,312] INFO in database: Inserted/updated 82 exchange rates
+[2025-08-20 19:53:17,312] INFO in utils: Successfully stored 82 new exchange rates
+[2025-08-20 19:53:17,422] INFO in utils: Processing day 2/427: 2024-01-02
+[2025-08-20 19:53:17,930] INFO in utils: Starting data collection for 2024-01-02
+[2025-08-20 19:53:17,931] INFO in currency_service: Downloading fresh ECB data...
+[2025-08-20 19:53:19,841] INFO in currency_service: ECB data downloaded and cached to /app/data_cache\ecb_data_2025-08-20.zip
+[2025-08-20 19:53:20,771] INFO in currency_service: Available currencies: 42
+[2025-08-20 19:53:20,773] INFO in utils: Retrieved 82 exchange rates for 2024-01-02
+[2025-08-20 19:54:02,305] INFO in database: Inserted/updated 82 exchange rates
+[2025-08-20 19:54:02,305] INFO in utils: Successfully stored 82 new exchange rates
+[2025-08-20 19:54:02,407] INFO in utils: Processing day 3/427: 2024-01-03
+[2025-08-20 19:54:02,918] INFO in utils: Starting data collection for 2024-01-03
+[2025-08-20 19:54:02,919] INFO in currency_service: Downloading fresh ECB data...
+[2025-08-20 19:54:04,769] INFO in currency_service: ECB data downloaded and cached to /app/data_cache\ecb_data_2025-08-20.zip
+[2025-08-20 19:54:05,474] INFO in currency_service: Available currencies: 42
+[2025-08-20 19:54:05,477] INFO in utils: Retrieved 82 exchange rates for 2024-01-03
+[2025-08-20 19:54:47,752] INFO in database: Inserted/updated 82 exchange rates
+[2025-08-20 19:54:47,753] INFO in utils: Successfully stored 82 new exchange rates
+[2025-08-20 19:54:47,857] INFO in utils: Processing day 4/427: 2024-01-04
+[2025-08-20 19:54:48,340] INFO in utils: Starting data collection for 2024-01-04
+[2025-08-20 19:54:48,340] INFO in currency_service: Downloading fresh ECB data...
+[2025-08-20 19:54:50,598] INFO in currency_service: ECB data downloaded and cached to /app/data_cache\ecb_data_2025-08-20.zip
+[2025-08-20 19:54:52,333] INFO in currency_service: Available currencies: 42
+[2025-08-20 19:54:52,335] INFO in utils: Retrieved 82 exchange rates for 2024-01-04
+[2025-08-20 19:55:33,351] INFO in database: Inserted/updated 82 exchange rates
+[2025-08-20 19:55:33,352] INFO in utils: Successfully stored 82 new exchange rates
+[2025-08-20 19:55:33,454] INFO in utils: Processing day 5/427: 2024-01-05
+[2025-08-20 19:55:33,932] INFO in utils: Starting data collection for 2024-01-05
+[2025-08-20 19:55:33,934] INFO in currency_service: Downloading fresh ECB data...
